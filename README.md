@@ -88,195 +88,197 @@ Note: this is just a sample list, it is not exhaustive.
 
 1. Software, Computing, IT;
 
-1.1 Develop lean software that consume less CPU, less memory, less bandwidth;
+  1.1 Develop lean software that consume less CPU, less memory, less bandwidth;
 
-1.2 Develop high speed or real time software (response time less than X milliseconds etc.);
+  1.2 Develop high speed or real time software (response time less than X milliseconds etc.);
 
-1.3 Develop software of high performance, supporting X amount of users simultaneously;
+  1.3 Develop software of high performance, supporting X amount of users simultaneously;
 
-1.4 Develop software of high performance, supporting high volume of read/write of database;
+  1.4 Develop software of high performance, supporting high volume of read/write of database;
 
-1.5 Develop software of high performance, supporting more parallel computing or more concurrency;
+  1.5 Develop software of high performance, supporting more parallel computing or more concurrency;
 
-1.6 Develop multi-threaded software;
+  1.6 Develop multi-threaded software;
 
-1.7 Develop more efficient algorithm that reduced the computation (from n^2 to n*log(n));
+  1.7 Develop more efficient algorithm that reduced the computation (from n^2 to n*log(n));
 
-1.8 Integrate heterogenous software systems;
+  1.8 Integrate heterogenous software systems;
 
-1.9 Extend the performance and functionality of a open source code base;
+  1.9 Extend the performance and functionality of a open source code base;
 
-1.10 Develop distributed or decentralized system, ensure data integration across the system;
+  1.10 Develop distributed or decentralized system, ensure data integration across the system;
 
-1.11 Develop secure software, secure communication, better encryption/decryption methods;
+  1.11 Develop secure software, secure communication, better encryption/decryption methods;
 
-1.12 Develop new methods of user authentication, authorization, access control etc.;
+  1.12 Develop new methods of user authentication, authorization, access control etc.;
 
-1.13 Develop quantum random number generator, implement quantum key exchange protocol etc.;
+  1.13 Develop quantum random number generator, implement quantum key exchange protocol etc.;
 
-1.14 Develop multi qubit quantum computer, more effective decoherence, error reconciliation etc.;
+  1.14 Develop multi qubit quantum computer, more effective decoherence, error reconciliation etc.;
 
-1.15 Develop quantum adiabatic system, quantum optimization;
+  1.15 Develop quantum adiabatic system, quantum optimization;
 
-1.16 Develop blockchain system, defi, cefi, tokenization protocol, dex, cex etc.;
+  1.16 Develop blockchain system, defi, cefi, tokenization protocol, dex, cex etc.;
 
-1.17 Develop machine learning systems to achieve better prediction or more effective learning;
+  1.17 Develop machine learning systems to achieve better prediction or more effective learning;
 
-1.18 Develop quantum machine learning system;
+  1.18 Develop quantum machine learning system;
 
-1.19 Integrate multiple machine learning algorithms into one AI system;
+  1.19 Integrate multiple machine learning algorithms into one AI system;
 
-1.20 Develop more stable software that reduce the downtime significantly;
+  1.20 Develop more stable software that reduce the downtime significantly;
 
-The list can go on and on... hopefully by now you already get the idea.
+  The list can go on and on... hopefully by now you already get the idea.
 
 
 2. Mechanical, Electric & Electronic Systems and Integration;
 
-2.1 Integrate new technology, new controls, new modules into an existing system;
+  2.1 Integrate new technology, new controls, new modules into an existing system;
 
-2.2 Develop system that consumes less energy;
+  2.2 Develop system that consumes less energy;
 
-2.3 Develop system that increases productivity;
+  2.3 Develop system that increases productivity;
 
-2.4 Develop system that improves its safety;
+  2.4 Develop system that improves its safety;
 
-2.5 Develop system that improves its stability and/or its lifetime;
+  2.5 Develop system that improves its stability and/or its lifetime;
 
-2.6 Develop system that becomes more environmentally friendly, reduce waste or pollution;
+  2.6 Develop system that becomes more environmentally friendly, reduce waste or pollution;
 
 3. Machining, Metal Forming, Welding, Assembly, Plastic Molding;
 
-3.1 New composition of materials;
+  3.1 New composition of materials;
 
-3.2 New materials processing technology to achieve better performance;
+  3.2 New materials processing technology to achieve better performance;
 
-3.3 New cutting, forming, welding process to achieve better product property;
+  3.3 New cutting, forming, welding process to achieve better product property;
 
-3.4 Process metals or plastics with different set of temperatures, tooling, to optimize the property;
+  3.4 Process metals or plastics with different set of temperatures, tooling, to optimize the property;
 
-3.5 Unusually tight tolerance machining, forming, welding;
+  3.5 Unusually tight tolerance machining, forming, welding;
 
-3.6 Process optimization by changing multiple process parameters;
+  3.6 Process optimization by changing multiple process parameters;
 
-3.7 Material reclamation, such as sand reclamation;
+  3.7 Material reclamation, such as sand reclamation;
 
-3.8 Environment friendly waste processing, reduce pollution;
+  3.8 Environment friendly waste processing, reduce pollution;
 
 4. Surface processing, coating;
 
-4.1 More optimized process of surface for higher efficiency;
+  4.1 More optimized process of surface for higher efficiency;
 
-4.2 More corrosion resistance methods;
+  4.2 More corrosion resistance methods;
 
-4.3 New coating formula;
+  4.3 New coating formula;
 
-4.4 Less poison, less pollution methods;
+  4.4 Less poison, less pollution methods;
 
-4.5 New formula, new materials composite, new bonding technique for better quality or durability;
+  4.5 New formula, new materials composite, new bonding technique for better quality or durability;
 
-4.6 New surface finishing technique to achieve better quality;
+  4.6 New surface finishing technique to achieve better quality;
 
 5. Energy;
 
-5.1 New technology or process to increase energy efficiency;
+  5.1 New technology or process to increase energy efficiency;
 
-5.2 New technology or process to reduce heat dissipation, waste, or cost per watt;
+  5.2 New technology or process to reduce heat dissipation, waste, or cost per watt;
 
-5.3 New technology or process to reduce pollution;
+  5.3 New technology or process to reduce pollution;
 
-5.5 New technology or materials to improve insulation or improve conductivity;
+  5.5 New technology or materials to improve insulation or improve conductivity;
 
-5.6 Improve energy efficiency by designing and implementing smart controls;
+  5.6 Improve energy efficiency by designing and implementing smart controls;
 
-5.7 Improve battery life or reduce battery pollution;
+  5.7 Improve battery life or reduce battery pollution;
 
 6. Oil, Gas, Mining;
 
-6.1 Environment friendly process;
+  6.1 Environment friendly process;
 
-6.2 Material reuse or reclamation;
+  6.2 Material reuse or reclamation;
 
-6.3 Mining process of higher efficiency and/or less energy consumption;
+  6.3 Mining process of higher efficiency and/or less energy consumption;
 
-6.4 Equipment lifetime, stability improvement;
+  6.4 Equipment lifetime, stability improvement;
 
-6.5 New software, optimization algorithm, modelling method that lead to better productivity;
+  6.5 New software, optimization algorithm, modelling method that lead to better productivity;
 
 7. Farming, Growing & Food Processing;
 
-7.1 New formulas, mixture of new ingredients for better nutritions and better food conditions;
+  7.1 New formulas, mixture of new ingredients for better nutritions and better food conditions;
 
-7.2 New methods of processing, packaging to extend food's storage time;
+  7.2 New methods of processing, packaging to extend food's storage time;
 
-7.3 New process of farming (new temperature, humidity, fertilizing, sunshine etc.) to make food more organic or fit for special purpose;
+  7.3 New process of farming (new temperature, humidity, fertilizing, sunshine etc.) to make food more organic or fit for special purpose;
 
-7.4 New technology or process to increase food production per acres.
+  7.4 New technology or process to increase food production per acres.
 
-7.5 Experiment with new soil medium or composition of medium;
+  7.5 Experiment with new soil medium or composition of medium;
 
-7.6 Disease curing and preventing technology or process;
+  7.6 Disease curing and preventing technology or process;
 
-7.7 Improved animal feed composition for better or more production (egg, milk, meat etc.);
+  7.7 Improved animal feed composition for better or more production (egg, milk, meat etc.);
 
-7.8 New technology to perserve food;
+  7.8 New technology to perserve food;
+
 
 8. Beverage, wine making;
 
-8.1 Oenology process control and optimization, optimizing composition of ingredients, enzyme, fermenting experiments;
+  8.1 Oenology process control and optimization, optimizing composition of ingredients, enzyme, fermenting experiments;
 
-8.2 Grape property study, grape growing experiments, various combination of sunshine, temperature etc.;
+  8.2 Grape property study, grape growing experiments, various combination of sunshine, temperature etc.;
 
-8.3 New bottling technology, anti spillage etc.;
+  8.3 New bottling technology, anti spillage etc.;
+
 
 9. Chemical Industry;
 
-9.1 Experiment new chemical formulas for better product performance;
+  9.1 Experiment new chemical formulas for better product performance;
 
-9.2 Develop new solution, new compound that deliver better product performance;
+  9.2 Develop new solution, new compound that deliver better product performance;
 
-9.3 Controlled chemical reactions of special purpose;
+  9.3 Controlled chemical reactions of special purpose;
 
-9.4 More efficent colour making process;
+  9.4 More efficent colour making process;
 
-9.5 Develop new materials or derivatives of chemical process;
+  9.5 Develop new materials or derivatives of chemical process;
 
 10. Biotechnology, Genome, Protein Analysis;
 
-10.1 Virology study (admittedly, we put virology as the first as this document is writted during the COVID-19 pandemic, if you have a virology study experiments, we are eager to claim SR&ED for you);
+  10.1 Virology study (admittedly, we put virology as the first as this document is writted during the COVID-19 pandemic, if you have a virology study experiments, we are eager to claim SR&ED for you);
 
-10.2 Vaccine discovery;
+  10.2 Vaccine discovery;
 
-10.3 Drug discovery;
+  10.3 Drug discovery;
 
-10.4 Genome data analytics;
+  10.4 Genome data analytics;
 
-10.5 Disease study, screening technology, and data analytics;
+  10.5 Disease study, screening technology, and data analytics;
 
-10.6 Protein folding and composition experiments;
+  10.6 Protein folding and composition experiments;
 
-10.7 Faster, or more accurate diagnostic and test toolkit;
+  10.7 Faster, or more accurate diagnostic and test toolkit;
 
 
 11. Electric & Electronics Manufacturing and Assembly;
 
-11.1 System integration between mechanical, electrical, electronic, hydraulic sub systems;
+  11.1 System integration between mechanical, electrical, electronic, hydraulic sub systems;
 
-11.2 Smart controls to make equipment run faster, run more stably, save energy;
+  11.2 Smart controls to make equipment run faster, run more stably, save energy;
 
-11.3 New system to achieve more productivity than the existing system;
+  11.3 New system to achieve more productivity than the existing system;
 
-11.4 Improve signal strength, reduce signal noise, etc.;
+  11.4 Improve signal strength, reduce signal noise, etc.;
 
-11.5 Reduce electric surge and improve equipment lifetime;
+  11.5 Reduce electric surge and improve equipment lifetime;
 
 12. Health Care, Dental Care;
 
-12.1 Clinical experiments;
+  12.1 Clinical experiments;
 
-12.2 Big data analytics, machine learning to find hidden corelations and causes of disease;
+  12.2 Big data analytics, machine learning to find hidden corelations and causes of disease;
 
-12.3 Drug test;
+  12.3 Drug test;
 
 
 How Do I Spot SR&ED Activities, If Any
