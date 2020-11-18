@@ -147,7 +147,7 @@ The list can go on and on... hopefully by now you already get the idea.
 
 3. Machining, Metal Forming, Welding, Assembly, Plastic Molding;
 
-3.1 New composition of materials;
+- 3.1 New composition of materials;
 
 - New materials processing technology to achieve better performance;
 
@@ -165,7 +165,7 @@ The list can go on and on... hopefully by now you already get the idea.
 
 4. Surface processing, coating;
 
-4.1 More optimized process of surface for higher efficiency;
+- 4.1 More optimized process of surface for higher efficiency;
 
 - More corrosion resistance methods;
 
